@@ -26,14 +26,12 @@ modification, are permitted provided that the following conditions are met:
 •	The method to get the relation between Pharmaceuticals and Antibiotics in USA water and drugs used to treat is free of copyrights.
 
 •	Project solution is to minimize the Expiration using Predictable formula and historical usage statistics And using machine learning are protected copyright.
-
-      < https://github.com/abdelrazekrizk/MARKET-STATUS >
-      
-      < https://github.com/abdelrazekrizk/USCARE >
-      
-      < https://github.com/abdelrazekrizk/AWS-Marketplace-Developer-Challenge-ML-Powered-Solutions >
-      
-     < https://github.com/abdelrazekrizk/Microsoft-Azure-AI-Hackathon-Product-in-markets-status >
+     
+     ### <https://github.com/abdelrazekrizk/MARKET-STATUS>
+     ### https://github.com/abdelrazekrizk/USCARE>
+     ### <https://github.com/abdelrazekrizk/AWS-Marketplace-Developer-Challenge-ML-Powered-Solutions>
+     ### < https://github.com/abdelrazekrizk/Microsoft-Azure-AI-Hackathon-Product-in-markets-status>
+     
 
 
 
