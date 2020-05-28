@@ -5,6 +5,7 @@
 BSD 3-Clause License
 
 Copyright (c) 2020, Abdelrazek Rizk
+
 ##All rights reserved. 
 1. I have sole ownership of intellectual property rights to my Submissions and 
 I am not making Submissions in the course of work for my Employer or Employer Company or a Parent Corporation or Subsidiary Corporation of the Company.
