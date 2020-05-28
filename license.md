@@ -5,7 +5,11 @@
 BSD 3-Clause License
 
 Copyright (c) 2020, Abdelrazek Rizk
-All rights reserved.
+##All rights reserved. 
+1. I have sole ownership of intellectual property rights to my Submissions and 
+I am not making Submissions in the course of work for my Employer or Employer Company or a Parent Corporation or Subsidiary Corporation of the Company.
+2. All data and code generator using my own home workstation and my all own accounts subscribe in the cloud providers.
+
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -32,9 +36,6 @@ modification, are permitted provided that the following conditions are met:
 ### <https://github.com/abdelrazekrizk/AWS-Marketplace-Developer-Challenge-ML-Powered-Solutions>
 ### <https://github.com/abdelrazekrizk/Microsoft-Azure-AI-Hackathon-Product-in-markets-status>
      
-
-
-
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
 IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
